@@ -11,10 +11,10 @@ i'm building this portfolio as i learn — slowly, honestly, and in public.
 
 ## what's here
 - `sql-portfolio` — queries i wrote and improved during dental office operations
-- `stats-notes` — coursework and practice from STA2023 Elementary Statistics
-- `spreadsheet-concepts-notes` — Excel coursework from CGS2512C
 - `pci-dss-notes` — sanitized documentation from a real compliance engagement
-- `COP1000C` — intro computing course repo (FSCJ requirement)
+- `sta2023-elementary-statistics` — statistics coursework and notes
+- `cgs2512c-spreadsheet-concepts` — excel and spreadsheet coursework
+- `cop1000c-intro-computing` — intro computing course repo (FSCJ requirement)
 
 ## currently learning
 - SQL (MySQL)
