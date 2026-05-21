@@ -1,6 +1,6 @@
 # hi, i'm clarice 👋
 
-data analytics student at FSCJ, based in Jacksonville, FL.
+data analytics student at FSCJ, based in Bloomington, IN.
 
 i'm building this portfolio as i learn — slowly, honestly, and in public.
 
@@ -18,9 +18,9 @@ i'm building this portfolio as i learn — slowly, honestly, and in public.
 
 ## currently learning
 - SQL (MySQL)
-- Statistics (STA2023 via ALEKS)
+- Statistics
 - Excel / spreadsheet concepts (CGS2512C)
-- Python (coming soon)
+- Python
 
 ## tools i use
 - MySQL | Excel | Notion
